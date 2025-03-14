@@ -5,32 +5,32 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "Book Wallah",
+    year: "Nov2024",
     align: "right",
     image: "../../public/images/website-img-1.jpg",
-    link: "#",
+    link: "https://github.com/Ravinesh18/Book-Wallah",
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
-    align: "left",
-    image: "../../public/images/website-img-2.webp",
-    link: "#",
-  },
-  {
-    name: "Tourzania",
-    year: "Jan2023",
-    align: "right",
-    image: "../../public/images/website-img-3.jpg",
-    link: "#",
-  },
-  {
-    name: "Bank of Luck",
+    name: "Stream Hub",
     year: "May2024",
     align: "left",
+    image: "../../public/images/website-img-2.webp",
+    link: "https://github.com/Ravinesh18/Stream-Hub",
+  },
+  {
+    name: "Code Shode",
+    year: "July2024",
+    align: "right",
+    image: "../../public/images/website-img-3.jpg",
+    link: "https://code-shode.vercel.app/",
+  },
+  {
+    name: "Chat App",
+    year: "Dec2023",
+    align: "left",
     image: "../../public/images/website-img-4.jpg",
-    link: "#",
+    link: "https://github.com/Ravinesh18/Dialogix-ChatApp",
   },
 ];
 
